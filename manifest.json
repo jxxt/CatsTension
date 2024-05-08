@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Cute Cats",
+    "description": "extension to load cute cat images",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
