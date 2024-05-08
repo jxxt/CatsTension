@@ -1,0 +1,30 @@
+body {
+    width: 500px;
+    background-color: beige;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: green;
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
+
+img {
+    width: 500px;
+    border-radius: 20px;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: darkmagenta;
+    font-size: 20px;
+    font-weight: bolder;
+}
